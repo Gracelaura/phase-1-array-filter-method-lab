@@ -36,6 +36,7 @@
     "sinon": "^7.3.1"
   },
   "dependencies": {
+    "electron-to-chromium": "^1.4.225",
     "expect": "^24.7.1"
   }
 }
